@@ -2,7 +2,7 @@
     "artifacts": [
         {
             "hash": "85fc9ffc2b5c5af11bb720d0bd543a42561a819a0957b55a33228fb7b0b2396a", 
-            "name": "client-1.5.20.jar", 
+            "name": "client-1.5.21-1.jar", 
             "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/client-1.5.21-1.jar", 
             "size": 3168921
         }, 
