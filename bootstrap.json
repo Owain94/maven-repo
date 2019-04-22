@@ -207,7 +207,7 @@
         {
             "hash": "a5383c01074d4cadfe979e6d0b354ddf793b1cb0d1595e40d58688a813733ccb", 
             "name": "client-patch-1.5.21.jar", 
-            "path": "https://repo.runelite.net/net/runelite/client-patch/1.5.21/client-patch-1.5.21.jar", 
+            "path": "https://repo.runelite.net/net/runelite/client-patch/1.5.21-SNAPSHOT/client-patch-1.5.21-20190422.153623-13.jar", 
             "size": 419585
         }, 
         {
