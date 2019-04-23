@@ -2,6 +2,12 @@
     "artifacts": [
 		{
             "hash": "85fc9ffc2b5c5af11bb720d0bd543a42561a819a0957b55a33228fb7b0b2396a", 
+            "name": "naturalmouse-2.0.0.jar", 
+            "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/naturalmouse-2.0.0.jar", 
+            "size": 3168921
+        }, 
+		{
+            "hash": "85fc9ffc2b5c5af11bb720d0bd543a42561a819a0957b55a33228fb7b0b2396a", 
             "name": "jcl-core-2.9-SNAPSHOT.jar", 
             "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/jcl-core-2.9-SNAPSHOT.jar", 
             "size": 3168921
