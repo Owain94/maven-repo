@@ -19,7 +19,7 @@
             "size": 3168921
         }, 
         {
-            "hash": "0b080ed269dbe160e190a5855381808ffeb9c246e907792849e2cfaa247731fa", 
+            "hash": "0c640b5fd6285545da5baa2021b1532026f13dabd80eac38ab6e3018de27d9d0", 
             "name": "client-1.5.22-2.jar", 
             "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/client-1.5.22-2.jar", 
             "size": 3168921
@@ -211,13 +211,13 @@
             "size": 2327547
         }, 
         {
-            "hash": "93812696713af28be8e254de8fcd99fb3256166d8f50b4f05eae72f6b77fa926", 
+            "hash": "9bccbf28690fe4d1a9e889a1d28e50c75bca291773cfd55e381124cd1c714ee5", 
             "name": "runelite-api-1.5.22-1.jar", 
             "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/runelite-api-1.5.22-1.jar", 
             "size": 990794
         }, 
         {
-            "hash": "b3fda15b938b2f34e72bf5d60e4db83f2c4d569dce42d67ce0f08cdb17726db4", 
+            "hash": "918a314f287dc2d29d0b83533ddba8ed54b01df63956b1098c2ade93b7b78006", 
             "name": "runescape-api-1.5.22-1.jar", 
             "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/runescape-api-1.5.22-1.jar", 
             "size": 54358
@@ -288,7 +288,7 @@
 		"javassist-3.24.1-GA.jar": "5d57ea5b0ec8cb46143dfe521f888b208028be126f274cc4f852e641755f1553", 
         "animal-sniffer-annotations-1.14.jar": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d", 
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08", 
-        "client-1.5.22-2.jar": "967954058426093c90af98dd6e4998e4d5ad430b159cc893ea3cf16584977aae", 
+        "client-1.5.22-2.jar": "0c640b5fd6285545da5baa2021b1532026f13dabd80eac38ab6e3018de27d9d0", 
         "client-patch-1.5.21.jar": "280c702d18e866723ccd0099d37485af9276a9a3db903fb1a5e37293a2ed69ec", 
         "commons-compress-1.5.jar": "55bbfe26cee9296fd5b7c0d47ce6a00ea4dd572e235b63e9bb4eaf6f802315e4", 
         "commons-csv-1.4.jar": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008", 
@@ -321,8 +321,8 @@
         "logback-core-1.2.3.jar": "5946d837fe6f960c02a53eda7a6926ecc3c758bbdd69aa453ee429f858217f22", 
         "okhttp-3.7.0.jar": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165", 
         "okio-1.12.0.jar": "bfe7dfe483c37137966a1690f0c7d0b448ba217902c1fed202aaffdbba3291ae", 
-        "runelite-api-1.5.22-1.jar": "805f06faebe05dc4e9a28324fed524d55c2f1f3a62e686331bf6dd16ba9c2046", 
-        "runescape-api-1.5.22-1.jar": "8dac81c22ea15afe7794394f5ea5cdd42a58e4ca6c40872b2a8c48c047998750", 
+        "runelite-api-1.5.22-1.jar": "9bccbf28690fe4d1a9e889a1d28e50c75bca291773cfd55e381124cd1c714ee5", 
+        "runescape-api-1.5.22-1.jar": "918a314f287dc2d29d0b83533ddba8ed54b01df63956b1098c2ade93b7b78006", 
         "slf4j-api-1.7.25.jar": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79", 
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83", 
         "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef"
