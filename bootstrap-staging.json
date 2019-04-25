@@ -20,8 +20,8 @@
         }, 
         {
             "hash": "0b080ed269dbe160e190a5855381808ffeb9c246e907792849e2cfaa247731fa", 
-            "name": "client-1.5.22-1.jar", 
-            "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/client-1.5.22-1.jar", 
+            "name": "client-1.5.22-2.jar", 
+            "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/client-1.5.22-2.jar", 
             "size": 3168921
         },
         {
@@ -288,7 +288,7 @@
 		"javassist-3.24.1-GA.jar": "5d57ea5b0ec8cb46143dfe521f888b208028be126f274cc4f852e641755f1553", 
         "animal-sniffer-annotations-1.14.jar": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d", 
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08", 
-        "client-1.5.22-1.jar": "967954058426093c90af98dd6e4998e4d5ad430b159cc893ea3cf16584977aae", 
+        "client-1.5.22-2.jar": "967954058426093c90af98dd6e4998e4d5ad430b159cc893ea3cf16584977aae", 
         "client-patch-1.5.21.jar": "280c702d18e866723ccd0099d37485af9276a9a3db903fb1a5e37293a2ed69ec", 
         "commons-compress-1.5.jar": "55bbfe26cee9296fd5b7c0d47ce6a00ea4dd572e235b63e9bb4eaf6f802315e4", 
         "commons-csv-1.4.jar": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008", 
