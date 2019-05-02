@@ -21,7 +21,7 @@
         {
             "hash": "37B82364D9014F8E9C5070CF02C46DA958E5B0849CE13DBFC9CDEA41744DC994", 
             "name": "client-1.5.23.1.jar", 
-            "path": "https://repo.runelite.net/net/runelite/client/1.5.22.1/client-1.5.23.1.jar", 
+            "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/client-1.5.23.1.jar", 
             "size": 3212275
         }, 
         {
@@ -213,13 +213,13 @@
         {
             "hash": "08E4CB2B5CA6D41440B8E6009D3168103EF0D4FC2BFEAC9B2E59E6BEC4CF5C1C", 
             "name": "runelite-api-1.5.23.1.jar", 
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.5.22.1/runelite-api-1.5.23.1.jar", 
+            "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/runelite-api-1.5.23.1.jar", 
             "size": 983740
         }, 
         {
             "hash": "07CC6EE02EBCD682C82122D98BF371986BA10FB86B3F93975537EDB9F934BA0A", 
             "name": "runescape-api-1.5.23.1.jar", 
-            "path": "https://repo.runelite.net/net/runelite/rs/runescape-api/1.5.22.1/runescape-api-1.5.23.1.jar", 
+            "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/runescape-api-1.5.23.1.jar", 
             "size": 55120
         }, 
         {
