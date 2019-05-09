@@ -1,12 +1,6 @@
 {
     "artifacts": [
 		{
-            "hash": "aaa3e4096970b4458143b4c95446b1d65cb4b211400ba8e8031d62cc42e13d72", 
-            "name": "flexo-1.0.2.jar", 
-            "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/net/runelit/flexo/1.0.2/flexo-1.0.2.jar", 
-            "size": 3168921
-        }, 
-		{
             "hash": "37abf0103ce5318bfda004fabc004c75ed0dc6d392a8459175692ab7eac97083", 
             "name": "naturalmouse-2.0.0.jar", 
             "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/naturalmouse-2.0.0.jar", 
@@ -289,7 +283,6 @@
         "-Djna.nosys=true"
     ], 
     "dependencyHashes": {
-		"flexo-1.0.2.jar": "aaa3e4096970b4458143b4c95446b1d65cb4b211400ba8e8031d62cc42e13d72", 
 		"naturalmouse-2.0.0.jar": "37abf0103ce5318bfda004fabc004c75ed0dc6d392a8459175692ab7eac97083", 
 		"jcl-core-2.9-SNAPSHOT.jar": "50d1e07f11827672249dee9ce8a23691fc59f663deed084bb7b52a4f778d5fbc", 
 		"javassist-3.24.1-GA.jar": "5d57ea5b0ec8cb46143dfe521f888b208028be126f274cc4f852e641755f1553", 
