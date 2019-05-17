@@ -236,8 +236,8 @@
         }, 
         {
             "hash": "1b3ff13aa12395f589a5613e35f024e56fc73e5788e932a14c268898a71ffff0", 
-            "name": "client-patch-1.5.24-SNAPSHOT.jar", 
-            "path": "https://repo.runelite.net/net/runelite/client-patch/1.5.24-SNAPSHOT/client-patch-1.5.24.jar", 
+            "name": "client-patch-1.5.23.jar", 
+            "path": "https://repo.runelite.net/net/runelite/client-patch/1.5.23/client-patch-1.5.23.jar", 
             "size": 421274
         }, 
         {
