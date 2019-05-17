@@ -235,7 +235,7 @@
             "size": 55120
         }, 
         {
-            "hash": ea06a1e0ea90a98a1847ac972616cefdb1ddabfb3fd65f9f1275455727932f7e", 
+            "hash": "ea06a1e0ea90a98a1847ac972616cefdb1ddabfb3fd65f9f1275455727932f7e", 
             "name": "client-patch-1.5.23.jar", 
             "path": "https://repo.runelite.net/net/runelite/client-patch/1.5.23/client-patch-1.5.23.jar", 
             "size": 421274
