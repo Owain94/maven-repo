@@ -303,7 +303,7 @@
         "animal-sniffer-annotations-1.14.jar": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d", 
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08", 
         "client-1.5.24-1.jar": "4a8d6944e92339f68b3cee7b3fcaf7bec6963b1b5cc2bc7bd6eac2072e1994b6", 
-        "client-patch-1.5.24-SNAPSHOT.jar": "1b3ff13aa12395f589a5613e35f024e56fc73e5788e932a14c268898a71ffff0", 
+        "client-patch-1.5.23.jar": "1b3ff13aa12395f589a5613e35f024e56fc73e5788e932a14c268898a71ffff0", 
         "commons-compress-1.5.jar": "55bbfe26cee9296fd5b7c0d47ce6a00ea4dd572e235b63e9bb4eaf6f802315e4", 
         "commons-csv-1.4.jar": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008", 
         "commons-lang3-3.7.jar": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847", 
