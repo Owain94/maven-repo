@@ -241,9 +241,9 @@
             "size": 421274
         }, 
         {
-            "hash": "f19674c5e0f73a76bab1096b40ead73e6ee85b4b3fa715baa3389754b24b3d57", 
-            "name": "http-api-1.5.23.jar", 
-            "path": "https://repo.runelite.net/net/runelite/http-api/1.5.23/http-api-1.5.23.jar", 
+            "hash": "69f42d09ca317c569b136f58922828eb6cc3f22d19a7133227ca6619fe430802", 
+            "name": "http-api-1.5.24.jar", 
+            "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/http-api-1.5.24.jar", 
             "size": 106267
         }, 
         {
@@ -320,7 +320,7 @@
         "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81", 
         "guava-23.2-jre.jar": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564", 
         "guice-4.1.0-no_aop.jar": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad", 
-        "http-api-1.5.23.jar": "81f2537232a814056bb33bed182a25aa6a63f13005a527e172f8b95962961ee5", 
+        "http-api-1.5.24.jar": "69f42d09ca317c569b136f58922828eb6cc3f22d19a7133227ca6619fe430802", 
         "j2objc-annotations-1.1.jar": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6", 
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff", 
         "jbsdiff-1.0.jar": "7b7ae00e2aa98c3b2b5ac76e793e2c9b752bf51c86c54654dbd473843a25f1aa", 
