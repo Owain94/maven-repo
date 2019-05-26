@@ -237,7 +237,7 @@
         {
             "hash": "7d01dfe71cf03ade5ffdfa98b8576120f018061e5ea171a522e311cd869d11e2", 
             "name": "client-patch-1.5.25-1.jar", 
-            "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/stable/client-patch/1.5.25.1/client-patch-1.5.25.1.jar", 
+            "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/stable/net/runelit/client-patch/1.5.25.1/client-patch-1.5.25.1.jar", 
             "size": 2644026
         }, 
         {
