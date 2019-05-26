@@ -1,6 +1,6 @@
 {
     "artifacts": [
-	    {
+      {
             "hash": "b12331da8683e5f107d294adeebb83ecf9124abc1db533554d2a8d3c62832d75", 
             "name": "asm-all-6.0_BETA.jar", 
             "path": "https://mvn.runelite.net/org/ow2/asm/asm-all/6.0_BETA/asm-all-6.0_BETA.jar", 
@@ -235,10 +235,10 @@
             "size": 55120
         }, 
         {
-            "hash": "272d49574e866f5a1ab12e6b20f4154b80e6927a14f8fcb3b23e3caf6a669107", 
-            "name": "client-patch-1.5.24.jar", 
-            "path": "https://repo.runelite.net/net/runelite/client-patch/1.5.24/client-patch-1.5.24.jar", 
-            "size": 948183
+            "hash": "7d01dfe71cf03ade5ffdfa98b8576120f018061e5ea171a522e311cd869d11e2", 
+            "name": "client-patch-1.5.25-1.jar", 
+            "path": "https://repo.runelite.net/net/runelite/client-patch/1.5.25-1/client-patch-1.5.25-1.jar", 
+            "size": 2644026
         }, 
         {
             "hash": "c7e107f565de7c2854c92ea801b5d0e62a8672790e96ea4a5f1597f95c51592a", 
@@ -297,7 +297,7 @@
         "-Djna.nosys=true"
     ], 
     "dependencyHashes": {
-	    "asm-all-6.0_BETA.jar": "b12331da8683e5f107d294adeebb83ecf9124abc1db533554d2a8d3c62832d75",
+      "asm-all-6.0_BETA.jar": "b12331da8683e5f107d294adeebb83ecf9124abc1db533554d2a8d3c62832d75",
         "extended-mixins-1.5.24.jar": "bca34be8bd07d9d4fc7573b1b0b24c07a5c7374ca9eb2a2139c00fd40cbe4bdf",
         "naturalmouse-2.0.0.jar": "37abf0103ce5318bfda004fabc004c75ed0dc6d392a8459175692ab7eac97083", 
         "jcl-core-2.9-SNAPSHOT.jar": "50d1e07f11827672249dee9ce8a23691fc59f663deed084bb7b52a4f778d5fbc", 
@@ -305,7 +305,7 @@
         "animal-sniffer-annotations-1.14.jar": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d", 
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08", 
         "client-1.5.24.jar": "c38f50b3941fdf876d7e8ff61d272871561676a958fbe20768621c2fe061d930", 
-        "client-patch-1.5.24.jar": "272d49574e866f5a1ab12e6b20f4154b80e6927a14f8fcb3b23e3caf6a669107", 
+        "client-patch-1.5.24.jar": "7d01dfe71cf03ade5ffdfa98b8576120f018061e5ea171a522e311cd869d11e2", 
         "commons-compress-1.5.jar": "55bbfe26cee9296fd5b7c0d47ce6a00ea4dd572e235b63e9bb4eaf6f802315e4", 
         "commons-csv-1.4.jar": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008", 
         "commons-lang3-3.7.jar": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847", 
