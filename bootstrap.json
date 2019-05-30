@@ -271,7 +271,7 @@
     "extension": "jar",
     "groupId": "net.runelite",
     "properties": {},
-    "version": "1.5.26-SNAPSHOT"
+    "version": "1.5.24"
   },
   "clientJvm9Arguments": [
     "-XX:+DisableAttachMechanism",
