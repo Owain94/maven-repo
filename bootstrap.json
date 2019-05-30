@@ -25,10 +25,10 @@
       "size": 3168921
     },
     {
-      "hash": "503a33a2dabe2249c282aa5cb3c190464edf4dacc9d502ce8afe0d58bab2b2f0",
-      "name": "client-1.5.25-3.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/client-1.5.25-3.jar",
-      "size": 4432318
+      "hash": "4fe163a8ffb152f77b26367408a332698f2d316992f47a6c824b670cce1b8272",
+      "name": "client-1.5.26-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/client-1.5.26-SNAPSHOT.jar",
+      "size": 4575336
     },
     {
       "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
