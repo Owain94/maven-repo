@@ -229,10 +229,10 @@
       "size": 53085
     },
     {
-      "hash": "4a1e7ea1f727216e2e53ee5a81fe1f6afe20085a39a2bb623a4162cfa3057602",
-      "name": "client-patch-1.5.26.1.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/net/runelit/client-patch/1.5.26.1/client-patch-1.5.26.1.jar",
-      "size": 2643882
+      "hash": "c6b0500057b11cb3dae2afe885c5a7c0155c4a130fbfa0d9649ba2179a518a4a",
+      "name": "client-patch-1.5.26.2.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/net/runelit/client-patch/1.5.26.2/client-patch-1.5.26.2.jar",
+      "size": 1472266
     },
     {
       "hash": "851a9a8223a817e40a607c6cb1da91a5f01aea1a5ae0644aad4abf4647110988",
@@ -298,7 +298,7 @@
     "animal-sniffer-annotations-1.14.jar": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d",
     "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
     "client-1.5.26-SNAPSHOT.jar": "d006cf999394afa356972d434378fcb0bcc8bc51f75d55c82958756921dc9be4",
-    "client-patch-1.5.26.1.jar": "4a1e7ea1f727216e2e53ee5a81fe1f6afe20085a39a2bb623a4162cfa3057602",
+    "client-patch-1.5.26.2.jar": "c6b0500057b11cb3dae2afe885c5a7c0155c4a130fbfa0d9649ba2179a518a4a",
     "commons-compress-1.5.jar": "55bbfe26cee9296fd5b7c0d47ce6a00ea4dd572e235b63e9bb4eaf6f802315e4",
     "commons-csv-1.4.jar": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008",
     "commons-lang3-3.7.jar": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847",
