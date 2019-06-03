@@ -25,10 +25,10 @@
       "size": 3168921
     },
     {
-      "hash": "d006cf999394afa356972d434378fcb0bcc8bc51f75d55c82958756921dc9be4",
+      "hash": "e88dc16b1861ffcb5c33d84d847a2dc89c6e9997ad3c1463a35a59f0d090c0d8",
       "name": "client-1.5.26-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/client-1.5.26-SNAPSHOT.jar",
-      "size": 4575336
+      "size": 4596438
     },
     {
       "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -217,7 +217,7 @@
       "size": 2327547
     },
     {
-      "hash": "e8dcb3b3d5601610bfe0dd3f8b66cfa69d26c07d9d43ba3ec075e6ee1b3cd718",
+      "hash": "21d07f907ed31a4e7fc2c43b65b764b28e43ca4ceb357c2fccd7293efce3ed4b",
       "name": "runelite-api-1.5.26-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/runelite-api-1.5.26-SNAPSHOT.jar",
       "size": 1015110
@@ -235,7 +235,7 @@
       "size": 1472266
     },
     {
-      "hash": "851a9a8223a817e40a607c6cb1da91a5f01aea1a5ae0644aad4abf4647110988",
+      "hash": "325b18d08630ce3b3cd8a56ab20f11e982b489ec01ae17679bc061178fb6524b",
       "name": "http-api-1.5.26-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/http-api-1.5.26-SNAPSHOT.jar",
       "size": 101468
@@ -297,7 +297,7 @@
     "javassist-3.24.1-GA.jar": "5d57ea5b0ec8cb46143dfe521f888b208028be126f274cc4f852e641755f1553",
     "animal-sniffer-annotations-1.14.jar": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d",
     "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
-    "client-1.5.26-SNAPSHOT.jar": "d006cf999394afa356972d434378fcb0bcc8bc51f75d55c82958756921dc9be4",
+    "client-1.5.26-SNAPSHOT.jar": "e88dc16b1861ffcb5c33d84d847a2dc89c6e9997ad3c1463a35a59f0d090c0d8",
     "client-patch-1.5.26.2.jar": "c6b0500057b11cb3dae2afe885c5a7c0155c4a130fbfa0d9649ba2179a518a4a",
     "commons-compress-1.5.jar": "55bbfe26cee9296fd5b7c0d47ce6a00ea4dd572e235b63e9bb4eaf6f802315e4",
     "commons-csv-1.4.jar": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008",
@@ -313,7 +313,7 @@
     "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
     "guava-23.2-jre.jar": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
     "guice-4.1.0-no_aop.jar": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad",
-    "http-api-1.5.26-SNAPSHOT.jar": "851a9a8223a817e40a607c6cb1da91a5f01aea1a5ae0644aad4abf4647110988",
+    "http-api-1.5.26-SNAPSHOT.jar": "325b18d08630ce3b3cd8a56ab20f11e982b489ec01ae17679bc061178fb6524b",
     "j2objc-annotations-1.1.jar": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6",
     "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
     "jbsdiff-1.0.jar": "7b7ae00e2aa98c3b2b5ac76e793e2c9b752bf51c86c54654dbd473843a25f1aa",
@@ -331,7 +331,7 @@
     "okhttp-3.7.0.jar": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165",
     "okio-1.12.0.jar": "bfe7dfe483c37137966a1690f0c7d0b448ba217902c1fed202aaffdbba3291ae",
     "runescape-api-1.5.26-SNAPSHOT.jar": "86da14ccce390090e70510fe2302d914317cd32e6213c2d50bb22a1f571a192a",
-    "runelite-api-1.5.26-SNAPSHOT.jar": "e8dcb3b3d5601610bfe0dd3f8b66cfa69d26c07d9d43ba3ec075e6ee1b3cd718",
+    "runelite-api-1.5.26-SNAPSHOT.jar": "21d07f907ed31a4e7fc2c43b65b764b28e43ca4ceb357c2fccd7293efce3ed4b",
     "slf4j-api-1.7.25.jar": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
     "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
     "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef"
