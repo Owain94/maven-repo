@@ -19,10 +19,10 @@
       "size": "3168921"
     },
     {
-      "hash": "14c15a848af66fe87cc445ce812fffbd0b75dae9c00282b6d293fa709229c13b",
+      "hash": "ced72466a27e3d790e4238cccc79854283deaa817adeb91cc3dec257232cff14",
       "name": "client-1.5.27-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/client-1.5.27-SNAPSHOT.jar",
-      "size": "4630260"
+      "size": "4654901"
     },
     {
       "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -211,22 +211,22 @@
       "size": "2327547"
     },
     {
-      "hash": "2890a2635431ef95004d0eb786b42a25e4d710856bcfe411d7c1d88315f91fff",
+      "hash": "ada5ef952f01ec71c4c65f33911e6d59572b31be3929490b1a7b1d6aeb1a1acd",
       "name": "runelite-api-1.5.27-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/runelite-api-1.5.27-SNAPSHOT.jar",
-      "size": "1018349"
+      "size": "1018571"
     },
     {
-      "hash": "24cc0ca92bc9f2d76b1adc035f87cc541fa547860a5172f84f8710f04e00c5fa",
+      "hash": "40c1ef0d55b2dee5026932bc03236ed240e7e7e01d80e05fab6e728d33d25eb8",
       "name": "runescape-api-1.5.27-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/runescape-api-1.5.27-SNAPSHOT.jar",
-      "size": "55897"
+      "size": "55928"
     },
     {
-      "hash": "e9dc2e904b75cda586ec8da526e35f7e81aa037919589885a1c9f90c332c107a",
+      "hash": "2c4d9aa79d836095f261aed4b94abe634506757dea17e45a8f748fee23e42592",
       "name": "http-api-1.5.27-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/http-api-1.5.27-SNAPSHOT.jar",
-      "size": "101477"
+      "size": "101786"
     },
     {
       "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165",
