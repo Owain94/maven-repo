@@ -224,10 +224,10 @@
       "size": "56079"
     },
     {
-      "hash": "3afa57b9cddb619d76b2f062723f88156ef7fcb873d2eb8e6626fcd482372273",
+      "hash": "0285f2d021f2b0ac74c916c1e275f8fa9a295fc900bb90384d8e6999d2cd51fc",
       "name": "http-api-1.5.28-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/http-api-1.5.28-SNAPSHOT.jar",
-      "size": "103085"
+      "size": "103060"
     },
     {
       "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165",
