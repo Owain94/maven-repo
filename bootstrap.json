@@ -1,5 +1,5 @@
 {
-  "buildCommit": "b3faba9edc5ba5428b44b716eb6f363dd24f037e",
+  "buildCommit": "3efbac50aae71d2698de7d7c994d08ff5f38e0dd",
   "artifacts": [
     {
       "hash": "b12331da8683e5f107d294adeebb83ecf9124abc1db533554d2a8d3c62832d75",
@@ -20,10 +20,10 @@
       "size": "3168921"
     },
     {
-      "hash": "60ecf0870f9d07d3f565678101d3cf534e848982322b87ec3077bb148004b9a4",
+      "hash": "d8c9b366ae9fb532a32fc4328cb01bc651d93b50a500d6014aa134af6f88ef55",
       "name": "client-1.5.28-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/client-1.5.28-SNAPSHOT.jar",
-      "size": "5872928"
+      "size": "5928517"
     },
     {
       "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -212,22 +212,22 @@
       "size": "2327547"
     },
     {
-      "hash": "62859e6f99cf8cbdae4c5185c61bcf2b957c19f45b019a73b5b9d31109670d99",
+      "hash": "999c7b066f4b4db64f80a6ded215c82a1212d5f00caced69e6a46ce6f4d76dd1",
       "name": "runelite-api-1.5.28-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/runelite-api-1.5.28-SNAPSHOT.jar",
-      "size": "1019494"
+      "size": "1030052"
     },
     {
-      "hash": "74ae1906b00324fc6c9d1ddb6b5eacb042e84bdb8b6d71af26ad90a4491d72d7",
+      "hash": "858ed13425d4ca99a8b608da12f8bfbc3b36969962e72bde27abe0e3378224eb",
       "name": "runescape-api-1.5.28-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/runescape-api-1.5.28-SNAPSHOT.jar",
-      "size": "56116"
+      "size": "58043"
     },
     {
-      "hash": "f1069394a6f2b08799f4a30df5433e638d8667bda792bc6f0376bed3efec8f5d",
+      "hash": "d33e6931decadfe7e53781d766afad53a29a47d768e31a29ff92a76c83cc9090",
       "name": "http-api-1.5.28-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/http-api-1.5.28-SNAPSHOT.jar",
-      "size": "108629"
+      "size": "115678"
     },
     {
       "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165",
@@ -254,10 +254,10 @@
       "size": "617294"
     },
     {
-      "hash": "c5e298cf4e84802f4394e7c6678b7147e52085a1a39d4bcef8f6645fa42f4a96",
+      "hash": "fa4c7941bf114e952402c5b9d1bfe89a3e25ffd44e5217e3ed02975c33349d96",
       "name": "injected-client-1.5.28-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/injected-client-1.5.28-SNAPSHOT.jar",
-      "size": "2193585"
+      "size": "2197517"
     }
   ],
   "client": {
