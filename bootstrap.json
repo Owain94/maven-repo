@@ -20,10 +20,10 @@
       "size": "3168921"
     },
     {
-      "hash": "d8c9b366ae9fb532a32fc4328cb01bc651d93b50a500d6014aa134af6f88ef55",
+      "hash": "9a2073ea7e820f18b7e6baba4b4c86e3a9a1e39fad2a1b6b3d96a77710790c3a",
       "name": "client-1.5.28-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/client-1.5.28-SNAPSHOT.jar",
-      "size": "5928517"
+      "size": "5927988"
     },
     {
       "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -212,10 +212,10 @@
       "size": "2327547"
     },
     {
-      "hash": "999c7b066f4b4db64f80a6ded215c82a1212d5f00caced69e6a46ce6f4d76dd1",
+      "hash": "b421f2fc357566e66ddf9a78f5a141efb3ff7e4f6722dd60d7b8c0ba5516b9ab",
       "name": "runelite-api-1.5.28-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/runelite-api-1.5.28-SNAPSHOT.jar",
-      "size": "1030052"
+      "size": "1024931"
     },
     {
       "hash": "858ed13425d4ca99a8b608da12f8bfbc3b36969962e72bde27abe0e3378224eb",
@@ -224,10 +224,10 @@
       "size": "58043"
     },
     {
-      "hash": "d33e6931decadfe7e53781d766afad53a29a47d768e31a29ff92a76c83cc9090",
+      "hash": "cad7ac76c524522e4a76206cf0cc4293d706a0d96602808ec3577a44d66cae9c",
       "name": "http-api-1.5.28-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/http-api-1.5.28-SNAPSHOT.jar",
-      "size": "115678"
+      "size": "115677"
     },
     {
       "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165",
@@ -254,10 +254,10 @@
       "size": "617294"
     },
     {
-      "hash": "fa4c7941bf114e952402c5b9d1bfe89a3e25ffd44e5217e3ed02975c33349d96",
+      "hash": "ff17b768fcbd0f6c82c3e31db174e39dfed73f4c2590547596026481c17ddef7",
       "name": "injected-client-1.5.28-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/injected-client-1.5.28-SNAPSHOT.jar",
-      "size": "2197517"
+      "size": "2196413"
     }
   ],
   "client": {
