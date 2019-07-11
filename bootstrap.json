@@ -1,5 +1,5 @@
 {
-  "buildCommit": "d26bf5a07a2ff4261417edc4a263ed07a8a72617",
+  "buildCommit": "b82c8903c64695d44b255d45b449440e4eaa17ef",
   "client": {
     "artifactId": "client",
     "classifier": "",
@@ -56,10 +56,10 @@
       "size": "3168921"
     },
     {
-      "hash": "49b13a23e5bef24bfe2c48574ae0f1a782075ab6f11fb587ee0c70cf0e808fba",
+      "hash": "5bcfba93d56b08f25e466040259d811c9295a89f6c6cda6d77542efa594d0542",
       "name": "client-1.5.29-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/client-1.5.29-SNAPSHOT.jar",
-      "size": "6043808"
+      "size": "6043807"
     },
     {
       "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -260,10 +260,10 @@
       "size": "58377"
     },
     {
-      "hash": "666e607343914fb98a0feb80b5067b4ff043e30aa1e6fb0878bf3796971250b6",
+      "hash": "9cd308057bc10020d0274e0e03125cd04512f406d805c9887f5d9e4f3c0dc7bd",
       "name": "http-api-1.5.29-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/http-api-1.5.29-SNAPSHOT.jar",
-      "size": "115783"
+      "size": "115784"
     },
     {
       "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165",
@@ -290,10 +290,10 @@
       "size": "617294"
     },
     {
-      "hash": "2a84d3f3be4c4c7475cbbe437051bfb5bf6295b8b3ffed0f6f76937eb500109e",
+      "hash": "a3f94b26d1ef617bde5d86247437105c94dbcc6e3f190795ab5bca72877a7f55",
       "name": "injected-client-1.5.29-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/injected-client-1.5.29-SNAPSHOT.jar",
-      "size": "2197676"
+      "size": "2197573"
     }
   ]
 }
