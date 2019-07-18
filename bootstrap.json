@@ -290,10 +290,10 @@
       "size": "617294"
     },
     {
-      "hash": "a19cf90d23f00d7df4a5b8b4480e74e50f7584a78db047cb10247ac1cf5afb51",
+      "hash": "01521c7b56e2f76aa7adef5082c2f8ee8cf9e93b02d3b2f4101a30f750db9db4",
       "name": "injected-client-1.5.29-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/injected-client-1.5.29-SNAPSHOT.jar",
-      "size": "2197675"
+      "size": "2252769"
     }
   ]
 }
