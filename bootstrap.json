@@ -306,6 +306,12 @@
       "name": "rxrelay-2.1.0.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/rxrelay-2.1.0.jar",
       "size": "27750"
+    },
+    {
+      "hash": "cc09ab0b140e0d0496c2165d4b32ce24f4d6446c0a26c5dc77b06bdf99ee8fae",
+      "name": "reactive-streams-1.0.2.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/reactive-streams-1.0.2.jar",
+      "size": "27750"
     }
   ]
 }
