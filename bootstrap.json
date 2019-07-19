@@ -298,7 +298,7 @@
     {
       "hash": "21b5cac673a156cd8d6cf9efe15ff267b6353eeb129678aa4b39542683ba0dc2",
       "name": "rxjava-2.2.10",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/rxjava-2.2.10",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/rxjava-2.2.10",
       "size": "2348810"
     }
   ]
