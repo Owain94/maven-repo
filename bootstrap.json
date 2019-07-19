@@ -300,6 +300,12 @@
       "name": "rxjava-2.2.10.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/rxjava-2.2.10.jar",
       "size": "2348810"
+    },
+    {
+      "hash": "830a08b9d5c20ab8e2033c16fc6ee067e6ffcd0c730f303d648aadfa81210d62",
+      "name": "rxrelay-2.1.0.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/rxrelay-2.1.0.jar",
+      "size": "27750"
     }
   ]
 }
