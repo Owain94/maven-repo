@@ -290,12 +290,6 @@
       "size": "617294"
     },
     {
-      "hash": "410694398652561f250ea742d873a6d7fa5ab3a24c696684c98e4579cce36681",
-      "name": "injected-client-1.5.30-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/injected-client-1.5.30-SNAPSHOT.jar",
-      "size": "2253465"
-    },
-    {
       "hash": "21b5cac673a156cd8d6cf9efe15ff267b6353eeb129678aa4b39542683ba0dc2",
       "name": "rxjava-2.2.10.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/rxjava-2.2.10.jar",
