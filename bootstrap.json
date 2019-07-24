@@ -56,10 +56,10 @@
       "size": "3168921"
     },
     {
-      "hash": "f94df875de52b87fa1a406dddf0aeb24df2345404eb39767afc471d7f4649a73",
+      "hash": "45d96962be730f0fe4124709226846fec90aa3a3c8dcd2eb3e45b5ca06bbaec7",
       "name": "client-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/client-1.5.30-SNAPSHOT.jar",
-      "size": "6291879"
+      "size": "0"
     },
     {
       "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -248,22 +248,22 @@
       "size": "2327547"
     },
     {
-      "hash": "b157f7ff5f79a64a082df67358dc00f58d320d620fcb0fb09f7c69090d59e164",
+      "hash": "e0c765c109c383693f9fabafe819262e18e99aac974fe744480485896f8b2985",
       "name": "runelite-api-1.5.30-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/runelite-api-1.5.30-SNAPSHOT.jar",
-      "size": "1033870"
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//live/runelite-api-1.5.30-SNAPSHOT.jar",
+      "size": "0"
     },
     {
-      "hash": "e8e743c2eb9e59f2990a5bdc48f061b7138890f065c0d603ecb8cdf0b0b158f7",
+      "hash": "79a6e6c77a9e1c2553931d05eece210baffe7a1cf81321e539e6810df0f18e7f",
       "name": "runescape-api-1.5.30-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/runescape-api-1.5.30-SNAPSHOT.jar",
-      "size": "58398"
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//live/runescape-api-1.5.30-SNAPSHOT.jar",
+      "size": "0"
     },
     {
-      "hash": "1a3d928f6ed62e7b1646763c8fa68e74dbcac17aa6fffe6e17223758135024da",
+      "hash": "b71a9fcf5a1be65a68dac47bb44ef711ba259d605aab643d1df48823b3cfec68",
       "name": "http-api-1.5.30-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/http-api-1.5.30-SNAPSHOT.jar",
-      "size": "139678"
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//live/http-api-1.5.30-SNAPSHOT.jar",
+      "size": "0"
     },
     {
       "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165",
