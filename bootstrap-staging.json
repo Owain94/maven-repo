@@ -56,7 +56,7 @@
       "size": "3168921"
     },
     {
-      "hash": "7a53d633f9272e51a834ba2a466ce6f8f0394c182145caed58ff1a4d9ff1ce97",
+      "hash": "abc2873ef0e24c90c0d7a53c442dfb0aee4247e94b76f6ecb85654213eeda5cd",
       "name": "client-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/staging/client-1.5.30-SNAPSHOT.jar",
       "size": "0"
@@ -248,27 +248,27 @@
       "size": "2327547"
     },
     {
-      "hash": "13d2e849ab96ba1bf58c5bdcb4645209b09e88b7fd1f03a7a29252e7a6f88b93",
+      "hash": "6cd81efc0d507b952b2068c6d7e5cdbe8a9937cfc4e5231f20ca35cc0f79228f",
       "name": "runelite-api-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//staging/runelite-api-1.5.30-SNAPSHOT.jar",
-      "size": "1033870"
+      "size": "0"
     },
     {
-      "hash": "66f72e8f7b309d7372f642d9a8443763fb1ed8a2f4d960543886b5998144c4b8",
+      "hash": "22d9ab326a174aed60eb3245b2cfb3acd232ffc43c13e4db93d80effac5607f2",
       "name": "runescape-api-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//staging/runescape-api-1.5.30-SNAPSHOT.jar",
-      "size": "58444"
+      "size": "0"
     },
     {
-      "hash": "95174ccf2180be7225d71798d377a9824f0b98db0b3f05c4ce43b124d2938975",
+      "hash": "41670bc0e562041850dfb7d8444e9859a4071ac2c6dcc0e1cd51139f007c9480",
       "name": "http-api-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//staging/http-api-1.5.30-SNAPSHOT.jar",
-      "size": "139675"
+      "size": "0"
     },
     {
       "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165",
-      "name": "okhttp-3.7.0.jar",
-      "path": "https://mvn.runelite.net/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.jar",
+      "name": "okhttp-4.0.1.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/okhttp-4.0.1.jar",
       "size": "394987"
     },
     {
