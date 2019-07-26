@@ -38,7 +38,7 @@
   ],
   "artifacts": [
     {
-      "hash": "ad1fa20bc90f5ab7cbf8230bc44636c4f58d7336b8416de46b7dd798eaf475f8",
+      "hash": "0ff50099610f1d5124383bc13ed1f61dd6f8eaa5646f74e553f40c3dac99c677",
       "name": "client-1.5.30-SNAPSHOT-shaded.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/staging/client-1.5.30-SNAPSHOT-shaded.jar",
       "size": "0"
