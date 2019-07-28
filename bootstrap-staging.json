@@ -1,4 +1,5 @@
 {
+  "projectVersion": "1.5.30-SNAPSHOT",
   "buildCommit": "6fe334c02648d3f8b38625e3175e3f547d54aa37",
   "client": {
     "artifactId": "client",
@@ -36,7 +37,6 @@
     "-XX:+UseParNewGC",
     "-Djna.nosys=true"
   ],
-  "projectVersion": "1.5.30-SNAPSHOT",
   "artifacts": [
     {
       "hash": "b12331da8683e5f107d294adeebb83ecf9124abc1db533554d2a8d3c62832d75",
@@ -57,7 +57,7 @@
       "size": "3168921"
     },
     {
-      "hash": "a1176ab26918584b50b286671b02983eacf2c235ddc410695060f97278bed068",
+      "hash": "3cf5ec46e1f8e323e31d72810f7f5c64efac6c7fe0c29bd0a28f68d8ce54a331",
       "name": "client-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/staging/client-1.5.30-SNAPSHOT.jar",
       "size": "0"
@@ -249,19 +249,19 @@
       "size": "2327547"
     },
     {
-      "hash": "f5909dd2fd6f6538329c3efda6e7093dc431d65a3c65ecafc792414b3f85237d",
+      "hash": "7b75eeadaf2d7542f7b61f5bf7d065942e3fb6984a52e6237d4dd2e2af5189dc",
       "name": "runelite-api-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//staging/runelite-api-1.5.30-SNAPSHOT.jar",
       "size": "0"
     },
     {
-      "hash": "eb27099c9022537b6c265ca7f6449ed4fb0f678bdb72949dc5729c32fd20b039",
+      "hash": "e1c74c8ee399da068f20aa94df9e5673485068467c12309cb33d40a242170df8",
       "name": "runescape-api-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//staging/runescape-api-1.5.30-SNAPSHOT.jar",
       "size": "0"
     },
     {
-      "hash": "bff5a8f66ac03b00c5170067f5bbf5a71037342cd33c1d0651a3d5d95ca90316",
+      "hash": "f1359c4266b089af6f13c8563949ee45a4d046ffdc36679bff6294ed7318fa0d",
       "name": "http-api-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//staging/http-api-1.5.30-SNAPSHOT.jar",
       "size": "0"
