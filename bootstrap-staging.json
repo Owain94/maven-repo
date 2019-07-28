@@ -313,6 +313,12 @@
       "name": "kotlin-stdlib-1.3.40.jar",
       "path": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.3.40/kotlin-stdlib-1.3.40.jar",
       "size": "27750"
+    },
+    {
+      "hash": "cc09ab0b140e0d0496c2165d4b32ce24f4d6446c0a26c5dc77b06bdf99ee8fae",
+      "name": "failureaccess-1.0.1.jar",
+      "path": "https://repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
+      "size": "27750"
     }
   ]
 }
