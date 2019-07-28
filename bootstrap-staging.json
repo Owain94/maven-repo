@@ -1,5 +1,4 @@
 {
-  "projectVersion": "1.5.30-SNAPSHOT",
   "buildCommit": "6fe334c02648d3f8b38625e3175e3f547d54aa37",
   "client": {
     "artifactId": "client",
@@ -37,6 +36,7 @@
     "-XX:+UseParNewGC",
     "-Djna.nosys=true"
   ],
+  "projectVersion": "1.5.30-SNAPSHOT",
   "artifacts": [
     {
       "hash": "b12331da8683e5f107d294adeebb83ecf9124abc1db533554d2a8d3c62832d75",
@@ -57,7 +57,7 @@
       "size": "3168921"
     },
     {
-      "hash": "f4f870452c6e3bdffc841f3884995d538651650cc6ce3cbb8bf196ebf22b5b80",
+      "hash": "4922e2a373bd71a26eeabc809424f2899c9785cf54cb905b67f905e669e20ce4",
       "name": "client-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/staging/client-1.5.30-SNAPSHOT.jar",
       "size": "0"
@@ -261,7 +261,7 @@
       "size": "0"
     },
     {
-      "hash": "8f41667b943dc3b9cf10238fc13ae5d9ddfd7ab666ac3c99215dfdce014efc76",
+      "hash": "e3d512e4106234c2b57da319d182f78bf7906e7b1eee6c3fcf2c698998e09945",
       "name": "http-api-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//staging/http-api-1.5.30-SNAPSHOT.jar",
       "size": "0"
