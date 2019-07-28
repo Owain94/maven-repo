@@ -57,7 +57,7 @@
       "size": "3168921"
     },
     {
-      "hash": "3cf5ec46e1f8e323e31d72810f7f5c64efac6c7fe0c29bd0a28f68d8ce54a331",
+      "hash": "95a2d549adcb2cd682fc65f060de0440c32e507211a91167b5cc69cc55a285db",
       "name": "client-1.5.30-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/staging/client-1.5.30-SNAPSHOT.jar",
       "size": "0"
@@ -249,21 +249,21 @@
       "size": "2327547"
     },
     {
-      "hash": "7b75eeadaf2d7542f7b61f5bf7d065942e3fb6984a52e6237d4dd2e2af5189dc",
+      "hash": "88b87711915c5a75025c886d8ab0c7a260cf1b45b0f17e853120b3dc03592a68",
       "name": "runelite-api-1.5.30-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//staging/runelite-api-1.5.30-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/staging/runelite-api-1.5.30-SNAPSHOT.jar",
       "size": "0"
     },
     {
-      "hash": "e1c74c8ee399da068f20aa94df9e5673485068467c12309cb33d40a242170df8",
+      "hash": "61ae65a58f9e44c7583d452ef4fd2c29a5aff47b69ba7ceed39832b506aead7c",
       "name": "runescape-api-1.5.30-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//staging/runescape-api-1.5.30-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/staging/runescape-api-1.5.30-SNAPSHOT.jar",
       "size": "0"
     },
     {
-      "hash": "f1359c4266b089af6f13c8563949ee45a4d046ffdc36679bff6294ed7318fa0d",
+      "hash": "49b0125a1e2ca2f20ff9adff15307e880a0f440e9942663d585f6e3bd15ba7ea",
       "name": "http-api-1.5.30-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//staging/http-api-1.5.30-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/staging/http-api-1.5.30-SNAPSHOT.jar",
       "size": "0"
     },
     {
@@ -319,6 +319,12 @@
       "name": "failureaccess-1.0.1.jar",
       "path": "https://repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
       "size": "27750"
+    },
+    {
+      "hash": "f13a0aca28a5b154dd305ab1fc3d2024001cb64525249d82a0cd6d4e9e671f78",
+      "name": "injected-client-1.5.30-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/staging/injected-client-1.5.30-SNAPSHOT.jar",
+      "size": "0"
     }
   ]
 }
