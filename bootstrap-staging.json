@@ -268,8 +268,8 @@
     },
     {
       "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165",
-      "name": "okhttp-3.7.0.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/artifacts/okhttp-3.7.0.jar",
+      "name": "okhttp-4.0.1.jar",
+      "path": "https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/4.0.1/okhttp-4.0.1.jar",
       "size": "394987"
     },
     {
