@@ -59,7 +59,7 @@
     {
       "hash": "2545785c6358a282581fce4ab899e741c36ddeca34519f88b78ba3d2a8c51abf",
       "name": "client-1.5.31-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//live/client-1.5.31-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/client-1.5.31-SNAPSHOT.jar",
       "size": "0"
     },
     {
@@ -251,19 +251,19 @@
     {
       "hash": "6e8a36cee24cb335920c8688aeffdb5a43b114b1ca39174bf3c3e1e1f0e58485",
       "name": "runelite-api-1.5.31-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//live/runelite-api-1.5.31-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/runelite-api-1.5.31-SNAPSHOT.jar",
       "size": "0"
     },
     {
       "hash": "4e9b5c0659d49fe901c2985089c3a7a814a7472912b71bc85b46ee3b521cfc39",
       "name": "runescape-api-1.5.31-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//live/runescape-api-1.5.31-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/runescape-api-1.5.31-SNAPSHOT.jar",
       "size": "0"
     },
     {
       "hash": "4eeb64b5579066cb276d3e9fd3412c4d6b827e7619226640a7248ec7b957a47b",
       "name": "http-api-1.5.31-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//live/http-api-1.5.31-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/http-api-1.5.31-SNAPSHOT.jar",
       "size": "0"
     },
     {
@@ -323,7 +323,7 @@
     {
       "hash": "878e8b60efe105b838068ef1eb50bc12f302fba5c079a72ebd502ec43ab2db54",
       "name": "injected-client-1.5.31-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master//live/injected-client-1.5.31-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/runelite-extended/maven-repo/master/live/injected-client-1.5.31-SNAPSHOT.jar",
       "size": "0"
     }
   ]
