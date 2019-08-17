@@ -41,8 +41,8 @@
   "artifacts": [
     {
       "name": "client-1.5.32-SNAPSHOT.jar",
-      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/client/1.5.32-SNAPSHOT/client-1.5.32-20190816.002611-1.jar",
-      "hash": "d1624ebce60b5083d153905ca9aee2fee404c4cd3d85b251b78e6f2326a1afa2",
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/client/1.5.32-SNAPSHOT/client-1.5.32-20190817.055301-2.jar",
+      "hash": "32c0822558efe57183d05ea04621a37d218a2c19a4aec46f4187115d455ff839",
       "size": "6316771"
     },
     {
@@ -317,8 +317,8 @@
     },
     {
       "name": "http-api-1.5.32-SNAPSHOT.jar",
-      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/http-api/1.5.32-SNAPSHOT/http-api-1.5.32-20190816.002611-1.jar",
-      "hash": "9075dbee61098fd2129ef210956a81e871b27879551f38b389e1c779847c267a",
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/http-api/1.5.32-SNAPSHOT/http-api-1.5.32-20190817.055301-2.jar",
+      "hash": "e5eabf2b589dae6b49eecb76ef42164844ead6b35e8bb5a23bbd0326daf3b5bf",
       "size": "144153"
     },
     {
@@ -329,8 +329,8 @@
     },
     {
       "name": "runelite-api-1.5.32-SNAPSHOT.jar",
-      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/runelite-api/1.5.32-SNAPSHOT/runelite-api-1.5.32-20190816.002603-1.jar",
-      "hash": "d7b75bad26afc310bd5ed64ceaabeb62df0b2754546ab2d60e07c8cc36e1c6cf",
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/runelite-api/1.5.32-SNAPSHOT/runelite-api-1.5.32-20190817.055253-2.jar",
+      "hash": "23796f189b48f6c949971c9e7432041fa89a751f993e5daa01bfaa90bc449b69",
       "size": "1073348"
     },
     {
@@ -407,14 +407,14 @@
     },
     {
       "name": "injected-client-1.5.32-SNAPSHOT.jar",
-      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/injected-client/1.5.32-SNAPSHOT/injected-client-1.5.32-20190816.002641-1.jar",
-      "hash": "58487d5d6f1a91d75688818e30cea57a83dd37c83a486ec6ea2a0b01b68102a1",
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/injected-client/1.5.32-SNAPSHOT/injected-client-1.5.32-20190817.055317-2.jar",
+      "hash": "ede5afcf5ee2c0e91e78204fd5998bcf1549b1793e7acd27c0fd460572cce8e0",
       "size": "2251313"
     },
     {
       "name": "runescape-api-1.5.32-SNAPSHOT.jar",
-      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/rs/runescape-api/1.5.32-SNAPSHOT/runescape-api-1.5.32-20190816.002624-1.jar",
-      "hash": "f548934bd193f7ca41f6190984a04087a2e2d4654f6a3ae16fca51fee92f859a",
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/rs/runescape-api/1.5.32-SNAPSHOT/runescape-api-1.5.32-20190817.055317-2.jar",
+      "hash": "9bd621e9d153c02d6af2803bfb9c32d2bab9b8e5efc1651996b49aa43f68097f",
       "size": "56561"
     }
   ]
