@@ -1,6 +1,6 @@
 {
   "projectVersion": "1.5.32-SNAPSHOT",
-  "buildCommit": "2d80de239d03528100729092623131ac5ed8804b",
+  "buildCommit": "649ef57b59ed71fcfd91f26b41c830f808d2322c",
   "client": {
     "artifactId": "client",
     "classifier": "",
@@ -41,9 +41,9 @@
   "artifacts": [
     {
       "name": "client-1.5.32-SNAPSHOT.jar",
-      "path": "https://nexus.thatgamerblue.com/repository/runelite/net/runelite/client/1.5.32-SNAPSHOT/client-1.5.32-20190820.173410-2.jar",
-      "hash": "85d5da9ead9120031ba092854b5a9cb538bfcee9fd8dce974751b2db3fda9dba",
-      "size": "6322934"
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/client/1.5.32-SNAPSHOT/client-1.5.32-20190823.012515-4.jar",
+      "hash": "11cc8f195c909fa15d582d7f9265b7c5c5a30ec9a2f4b44e402933a2332c71fe",
+      "size": "6618213"
     },
     {
       "name": "logback-classic-1.2.3.jar",
@@ -185,13 +185,13 @@
     },
     {
       "name": "discord-1.1.jar",
-      "path": "https://nexus.thatgamerblue.com/repository/runelite/net/runelite/discord/1.1/discord-1.1.jar",
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/discord/1.1/discord-1.1.jar",
       "hash": "7e26a8d043418f2f22d5f6a3083a9a131817009ee8cd72c004e83b50d1849a7c",
       "size": "617294"
     },
     {
       "name": "substance-8.0.02.jar",
-      "path": "https://nexus.thatgamerblue.com/repository/runelite/net/runelite/pushingpixels/substance/8.0.02/substance-8.0.02.jar",
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/pushingpixels/substance/8.0.02/substance-8.0.02.jar",
       "hash": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
       "size": "1589195"
     },
@@ -317,9 +317,9 @@
     },
     {
       "name": "http-api-1.5.32-SNAPSHOT.jar",
-      "path": "https://nexus.thatgamerblue.com/repository/runelite/net/runelite/http-api/1.5.32-SNAPSHOT/http-api-1.5.32-20190820.173408-2.jar",
-      "hash": "a1248d43b93cb535d09047079f201c3508962826932424b502042e97ac234a8c",
-      "size": "144005"
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/http-api/1.5.32-SNAPSHOT/http-api-1.5.32-20190823.012515-4.jar",
+      "hash": "faeece6cf0b254ca070e0482174a804c5718d6e967f78a4dcbd85bdcb32d5f91",
+      "size": "143530"
     },
     {
       "name": "commons-csv-1.7.jar",
@@ -329,9 +329,9 @@
     },
     {
       "name": "runelite-api-1.5.32-SNAPSHOT.jar",
-      "path": "https://nexus.thatgamerblue.com/repository/runelite/net/runelite/runelite-api/1.5.32-SNAPSHOT/runelite-api-1.5.32-20190820.173445-2.jar",
-      "hash": "69abb878fd290ab802eb090d0722c8dda2187715bdbb011f4dc1e590f8f54aa2",
-      "size": "1073527"
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/runelite-api/1.5.32-SNAPSHOT/runelite-api-1.5.32-20190823.012507-4.jar",
+      "hash": "bb31dddebab838e7d06253ef186cedb97d428740a282aec147bedc78df811d87",
+      "size": "1074916"
     },
     {
       "name": "jbsdiff-1.0.jar",
@@ -353,7 +353,7 @@
     },
     {
       "name": "trident-1.5.00.jar",
-      "path": "https://nexus.thatgamerblue.com/repository/runelite/net/runelite/pushingpixels/trident/1.5.00/trident-1.5.00.jar",
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/pushingpixels/trident/1.5.00/trident-1.5.00.jar",
       "hash": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
       "size": "79726"
     },
@@ -407,15 +407,27 @@
     },
     {
       "name": "injected-client-1.5.32-SNAPSHOT.jar",
-      "path": "https://nexus.thatgamerblue.com/repository/runelite/net/runelite/injected-client/1.5.32-SNAPSHOT/injected-client-1.5.32-20190820.173420-2.jar",
-      "hash": "4023b2e56823c753ccb99a7e1554e8643fe7b508f5d3eb622c70932b5a092baa",
-      "size": "2251217"
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/injected-client/1.5.32-SNAPSHOT/injected-client-1.5.32-20190823.012535-4.jar",
+      "hash": "694795f1812dc9534d2c00aa13115b9870ca584aa16376cbb04437224ab44e62",
+      "size": "2251291"
     },
     {
       "name": "runescape-api-1.5.32-SNAPSHOT.jar",
-      "path": "https://nexus.thatgamerblue.com/repository/runelite/net/runelite/rs/runescape-api/1.5.32-SNAPSHOT/runescape-api-1.5.32-20190820.173448-2.jar",
-      "hash": "76ff82c0967ca1a9c9c99af2feb0bbec913a59495f2831d1f9fe1040a245863d",
-      "size": "56561"
+      "path": "https://nexus.runelitepl.us/repository/runelite/net/runelite/rs/runescape-api/1.5.32-SNAPSHOT/runescape-api-1.5.32-20190823.012524-4.jar",
+      "hash": "1eef747d143ce95f30cce9157f3f1b82e88abfb03c845ce88351780d44480149",
+      "size": "56584"
+    },
+    {
+      "name": "jooq-3.11.12.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jooq/jooq/3.11.12/jooq-3.11.12.jar",
+      "hash": "cd61c0b52255807af68e1a4ff1e45f28f025b95bbdbaf1c24b37e19d0db31b8c",
+      "size": "2371136"
+    },
+    {
+      "name": "h2-1.4.199.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.199/h2-1.4.199.jar",
+      "hash": "3125a16743bc6b4cfbb61abba783203f1fb68230aa0fdc97898f796f99a5d42e",
+      "size": "2178179"
     }
   ]
 }
